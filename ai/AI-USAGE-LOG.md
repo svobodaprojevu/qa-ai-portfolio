@@ -13,7 +13,7 @@
 
 | # | Datum | Task | AI Tool | AI Role | Human Role | Time Without AI | Time With AI | Result |
 |---|---|---|---|---|---|---:|---:|---|
-| 1 | 2026-09-06 | Git init + GitHub repo: inicializace repa, initial commit, vytvoření public repa `qa-ai-portfolio` přes `gh`, push `main`; doplnění `.gitattributes` (LF) | Claude Code (Fable 5.1) | Ověřil stav `gh auth`, spustil `git init`/`add`/`commit`, `gh repo create --push`, navrhl a přidal `.gitattributes` | Zadání kroků, rozhodnutí přidat `.gitattributes`, kontrola výsledku na GitHubu | ~10 min | ~5 min (TODO: doplnit skutečný čas; commity 18:48–18:49) | Přijato vše. 2 commity na `main`, repo https://github.com/svobodaprojevu/qa-ai-portfolio. Renormalizace LF nic nezměnila (soubory už byly LF), varování CRLF bylo jen z pracovní kopie na Windows. |
+| 1 | 2026-09-06 | Git init + GitHub repo: inicializace repa, initial commit, vytvoření public repa `qa-ai-portfolio` přes `gh`, push `main`; doplnění `.gitattributes` (LF) | Claude Code (Fable 5.1) | Ověřil stav `gh auth`, spustil `git init`/`add`/`commit`, `gh repo create --push`, navrhl a přidal `.gitattributes` | Zadání kroků, rozhodnutí přidat `.gitattributes`, kontrola výsledku na GitHubu | ~10 min | 8 min | Přijato vše. 2 commity na `main`, repo https://github.com/svobodaprojevu/qa-ai-portfolio. Renormalizace LF nic nezměnila (soubory už byly LF), varování CRLF bylo jen z pracovní kopie na Windows. |
 
 ## Odmítnutá použití (AI by nepomohla)
 
