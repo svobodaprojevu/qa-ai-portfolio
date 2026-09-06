@@ -1,0 +1,10 @@
+# Postman environments with tokens
+api/postman/environments/*.json
+!api/postman/environments/*.example.json
+# Playwright
+automation/playwright/node_modules/
+automation/playwright/test-results/
+automation/playwright/playwright-report/
+# OS / editor
+.DS_Store
+Thumbs.db
