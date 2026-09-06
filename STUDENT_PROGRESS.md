@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | **Start simulace** | 6. 9. 2026 |
-| **Poslední aktualizace** | 6. 9. 2026 (repo na GitHubu, session 1 v AI logu) |
+| **Poslední aktualizace** | 6. 9. 2026 (TS-100: prostředí ověřena, nástroje zkontrolovány, kostra analýzy TS-101 připravena) |
 | **Aktuální sprint** | Sprint 1 — Zákaznické účty (den 1) |
 | **Aktuální ticket** | TS-101 Registrace nového zákazníka — READY FOR QA → čeká na moji analýzu |
 | **Paralelně** | TS-100 Onboarding |

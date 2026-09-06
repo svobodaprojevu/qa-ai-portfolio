@@ -7,6 +7,20 @@
 | **Release** | 5.1 — plánovaný na konec sprintu; QA doporučuje GO / NO‑GO, PO rozhoduje |
 | **Prostředí** | TEST (with-bugs) · reference STAGE |
 
+## Ověření prostředí před sprintem (6. 9. 2026, HTTP GET přes curl)
+
+| Co | Výsledek |
+|---|---|
+| TEST app https://with-bugs.practicesoftwaretesting.com | 200, title „Toolshop - v5.0 with bugs" |
+| STAGE app https://practicesoftwaretesting.com | 200 |
+| TEST Swagger `/api/documentation` | 200, Swagger UI se načte |
+| STAGE Swagger | 200 |
+| TEST API `GET /products` | 200 |
+| TEST API `POST /users/register` s prázdným tělem | 422 (endpoint existuje, validace odpovídá) |
+| Historie v1, v4 | 200 |
+| Přihlášení demo účtem v UI | **neověřeno** — udělá Jakub ručně (TS-100) |
+| Firefox pro AC 10 (TS-101) | **není nainstalovaný** (jen Playwright build) — TODO nainstalovat |
+
 ## Board
 
 | Ticket | Typ | Název | Status | Assignee |
