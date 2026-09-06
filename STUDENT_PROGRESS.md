@@ -80,8 +80,8 @@
 | Metrika | Hodnota |
 |---|---|
 | Úkolů s AI | 2 |
-| Skutečně ušetřený čas | ~2 min (session 1: 8 min s AI vs. ~10 min odhad bez AI) |
-| AI návrhy přijaté / odmítnuté | 1 / 0 |
+| Skutečně ušetřený čas | ~5 min (session 1: 8 vs. ~10 min; session 2: 5 vs. ~8 min; „bez AI“ = odhad) |
+| AI návrhy přijaté / odmítnuté | 2 / 0 |
 | Bugs found by me / suggested by AI / missed by AI | 0 / 0 / 0 |
 | AI failure cases odhalené / celkem | 0 / 0 |
 
