@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | **Start simulace** | 6. 9. 2026 |
-| **Poslední aktualizace** | 6. 9. 2026 (inicializace v2) |
+| **Poslední aktualizace** | 6. 9. 2026 (repo na GitHubu, session 1 v AI logu) |
 | **Aktuální sprint** | Sprint 1 — Zákaznické účty (den 1) |
 | **Aktuální ticket** | TS-101 Registrace nového zákazníka — READY FOR QA → čeká na moji analýzu |
 | **Paralelně** | TS-100 Onboarding |
@@ -60,7 +60,7 @@
 | SQL | 0 | — |
 | Playwright | 1 | samostudium před kurzem |
 | Selenium | 0 | — |
-| Git/GitHub | 2 | vlastní projekty |
+| Git/GitHub | 2 | vlastní projekty; 6. 9. init repa `qa-ai-portfolio`, `.gitattributes`, push přes `gh` |
 | CI/CD | 0 | — |
 | Prompt engineering | 1 | běžné používání Claude |
 | Context engineering | 0 | — |
@@ -79,9 +79,9 @@
 
 | Metrika | Hodnota |
 |---|---|
-| Úkolů s AI | 0 |
-| Skutečně ušetřený čas | 0 h |
-| AI návrhy přijaté / odmítnuté | 0 / 0 |
+| Úkolů s AI | 1 |
+| Skutečně ušetřený čas | ~2 min (session 1: 8 min s AI vs. ~10 min odhad bez AI) |
+| AI návrhy přijaté / odmítnuté | 1 / 0 |
 | Bugs found by me / suggested by AI / missed by AI | 0 / 0 / 0 |
 | AI failure cases odhalené / celkem | 0 / 0 |
 
@@ -95,7 +95,7 @@
 
 | Artefakt | Stav |
 |---|---|
-| Repo na GitHubu | ⏳ |
+| Repo na GitHubu | ✅ 6. 9. — https://github.com/svobodaprojevu/qa-ai-portfolio |
 | TS-101 analýza + scénáře | ⏳ |
 | TS-101 test cases (EN) | ⏳ |
 | První bug reporty | ⏳ |
