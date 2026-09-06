@@ -9,7 +9,15 @@
 
 | Dokument | Jira |
 |---|---|
-| TS-101 | |
+| TS-90 (epic Zákaznické účty) | TS-1 |
+| TS-100 | TS-2 |
+| TS-101 | TS-3 |
+| TS-102 | TS-4 |
+| TS-103 | TS-5 |
+| TS-104 | TS-6 |
+| TS-105 | TS-7 |
+
+Projekt založen 6. 9. 2026: https://borysjakub.atlassian.net/jira/software/projects/TS/boards/67 (board 67, sprint „TS Sprint 1" vytvořený, nespuštěný). Tickety mají v názvu i dokumentové číslo (např. „TS-101 Registrace…"), takže se v Jira hledají fulltextem. Starší projekt TSHOP (TestShop QA, plán v1) zůstal beze změny.
 
 7. Šablona popisu bugu: zkopíruj z `templates/bug-report.md` do pole Description.
 8. Filtry, které se hodí od začátku: `project = TS AND type = Bug AND status != Done ORDER BY priority DESC` a `project = TS AND assignee = currentUser() AND status in ("READY FOR QA","IN QA")`.

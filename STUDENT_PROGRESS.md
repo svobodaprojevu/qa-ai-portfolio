@@ -54,7 +54,7 @@
 | Test cases | 0 | — |
 | Exploratory testing | 0 | — |
 | Bug reporting | 0 | — |
-| Jira | 0 | — |
+| Jira | 1 | 6. 9. projekt TS založen s asistentem (sloupce, epic, 6 ticketů); vlastní práce s boardem začne u TS-101 |
 | DevTools | 1 | L0.1 náhled |
 | API / Postman | 0 | — |
 | SQL | 0 | — |

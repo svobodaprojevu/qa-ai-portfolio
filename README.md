@@ -65,7 +65,7 @@ Mentor si mezi konverzacemi pamatuje jen stručný stav (sprint, ticket, slabá 
 Co potřebuju mít hotové během Sprintu 1 (paralelně s prvním ticketem):
 
 - [x] tento repozitář na GitHubu (public), první commit `docs: initial QA portfolio structure` — hotovo 6. 9., https://github.com/svobodaprojevu/qa-ai-portfolio
-- [ ] Jira Cloud Free: team‑managed Scrum projekt **Toolshop QA**, klíč **TS**, sloupce podle workflow výše (`jira/README.md`)
+- [x] Jira Cloud Free: team‑managed Scrum projekt **Toolshop QA**, klíč **TS**, sloupce podle workflow výše (`jira/README.md`) — založeno 6. 9., mapování čísel v `jira/README.md`
 - [ ] přístupy k prostředím ověřené: TEST i STAGE se načtou ✅ (6. 9., HTTP 200), Swagger se otevře ✅ — **zbývá:** přihlášení demo účtem ověřit ručně v prohlížeči
 - [x] Postman nainstalovaný (API od Sprintu 3, ale ať je připravený) — nalezen 6. 9.
 - [x] Claude Code nainstalovaný a spuštěný v tomto repu; `CLAUDE.md` přečtený a případně upravený — 6. 9.
